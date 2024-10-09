@@ -1,6 +1,7 @@
 <div align="center">
 
 # To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models
+</div>
 
 ## 1. Introduction
 In recent years, multimodal large language models (MLLMs) have garnered significant attention from both industry and academia. However, there is still considerable debate on constructing MLLM architectures, particularly regarding the selection of appropriate connectors for perception tasks of varying granularities. This paper systematically investigates the impact of connectors on MLLM performance. 
