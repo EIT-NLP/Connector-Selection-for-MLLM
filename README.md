@@ -6,7 +6,7 @@
 In recent years, multimodal large language models (MLLMs) have garnered significant attention from both industry and academia. However, there is still considerable debate on constructing MLLM architectures, particularly regarding the selection of appropriate connectors for perception tasks of varying granularities. This paper systematically investigates the impact of connectors on MLLM performance. 
 
 <p align="center">
-  <img src="image/introduction.png" width="60%" />
+  <img src="image/introduction.png" width="90%" />
   <p align="center">An overview of the proposed two-dimensional coordinate system for ICL.</p>
 </p>
 
