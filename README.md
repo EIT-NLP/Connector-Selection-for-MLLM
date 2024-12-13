@@ -103,6 +103,5 @@ All evaluation results will be stored in the following directory structure:
 
 EVAL/eval_results/
 ├── mme/              # MME benchmark results
-├── mmbench/          # MMBench benchmark results 
-├── seedbench/        # SeedBench benchmark results
-
+├── mmbench/          # MMBench benchmark results
+└── seedbench/        # SeedBench benchmark results
