@@ -102,6 +102,6 @@ For evaluating the remaining benchmarks (RefCOCO, RefCOCO+, RefCOCOg, GQA, Scien
 All evaluation results will be stored in the following directory structure:
 
 EVAL/eval_results/
-├── mme/              # MME benchmark results
-├── mmbench/          # MMBench benchmark results
-└── seedbench/        # SeedBench benchmark results
+- mme/: MME benchmark results
+- mmbench/: MMBench benchmark results
+- seedbench/: SeedBench benchmark results
